@@ -1,5 +1,7 @@
-# Here is a list of words related to Long
-- **Long** beach
-- _Long key word_
-- *Long board*
-- __Long island__
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
